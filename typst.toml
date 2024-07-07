@@ -1,18 +1,16 @@
 # for a description of available keys, see https://github.com/typst/packages/?tab=readme-ov-file#package-format
 
 [package]
-name = ""
+name = "graceful-genetics"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = []
+authors = ["James R. Swift]
 license = "Unlicense"
-description = ""
+description = "A paper template with which to publish in journals and at conferences"
 homepage = ""
-repository = ""
-keywords = []
-categories = []
-disciplines = []
-compiler = ""
+repository = "https://github.com/JamesxX/graceful-genetics"
+keywords = ["paper", "article", "journal", "conference"]
+categories = ["paper"]
 exclude = [
 	".github",
 	"docs",
@@ -22,10 +20,10 @@ exclude = [
 	"Justfile",
 ]
 
-# [template]
-# path = "template"
-# entrypoint = "main.typ"
-# thumbnail = "thumbnail.png"
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnails/1.png"
 
 # [tool.mytool]
 # foo = "bar"
