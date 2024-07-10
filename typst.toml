@@ -4,7 +4,7 @@
 name = "graceful-genetics"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = ["James R. Swift]
+authors = ["James R. Swift"]
 license = "Unlicense"
 description = "A paper template with which to publish in journals and at conferences"
 homepage = ""
