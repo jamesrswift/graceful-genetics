@@ -25,5 +25,3 @@ path = "template"
 entrypoint = "main.typ"
 thumbnail = "thumbnails/1.png"
 
-# [tool.mytool]
-# foo = "bar"
