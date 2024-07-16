@@ -1,4 +1,4 @@
-#import "@preview/graceful-genetics:0.1.0" as graceful-genetics
+#import "@preview/graceful-genetics:0.1.1" as graceful-genetics
 #import "@preview/physica:0.9.3"
 
 #show: graceful-genetics.template.with(
