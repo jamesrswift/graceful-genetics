@@ -1,5 +1,6 @@
-#import "@preview/graceful-genetics:0.1.1" as graceful-genetics
+#import "src/impl.typ" as graceful-genetics
 #import "@preview/physica:0.9.3"
+
 
 #show: graceful-genetics.template.with(
   title: [Towards Swifter Interstellar Mail Delivery],
