@@ -14,6 +14,7 @@
     doi: "",
     keywords: (),
     abstract: [],
+    make-venue: make-venue,
     body,
 ) = {
     set page(
