@@ -72,9 +72,14 @@ During our research, we have already established pen pal relations with at least
 == Direct implications
 One of the most direct implications of A-Mail is the solution of the Mars problem. This means that people stuck on Mars can now finally watch football games live, a significant achievement on the grand scale of things. The complex communication interactions arising between Earth, Mars, and the \+
 
-#figure(
-  image("a-mail.png"),
-  caption: [
-    Visualization of the FTL Earth-to-Mars communication capabilities enabled by A-Mail.
-  ],
+#place(
+  auto,
+  float: true,
+  scope: "parent",
+  figure(
+    image("a-mail.png"),
+    caption: [
+      Visualization of the FTL Earth-to-Mars communication capabilities enabled by A-Mail.
+    ],
+  )
 )
