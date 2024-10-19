@@ -1,5 +1,5 @@
 # The `graceful-genetics` Package
-<div align="center">Version 0.1.1</div>
+<div align="center">Version 0.2.0</div>
 
 A recreation of the Oxford Physics template shown on the typst.app homepage.
 
@@ -16,7 +16,7 @@ A recreation of the Oxford Physics template shown on the typst.app homepage.
 To use this template, simply import it as shown below:
 
 ```typ
-#import "@preview/graceful-genetics:0.1.1"
+#import "@preview/graceful-genetics:0.2.0"
 
 #show: graceful-genetics.template.with(
   title: [Towards Swifter Interstellar Mail Delivery],
